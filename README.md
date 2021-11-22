@@ -1,1 +1,1 @@
-# odin-recipes
+Testing in Odin Project -- Web Dev Course
